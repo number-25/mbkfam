@@ -10,7 +10,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "My Brothers Keeper"
-  description = "Together Towards Truth"
+  description = "Prosperity through Community"
   avatarURL = "/images/logo1-mod-shirt.png"
   AvatarAltText = "avatar"
   avatarSize = "size-l"
@@ -35,8 +35,8 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "YouTube", url = "https://www.youtube.com/@mbkdigital9285"},
-    {name = "TikTok", url = "https://example.com"},
+    {name = "youtube", url = "https://www.youtube.com/@mbkdigital9285"},
+    {name = "tiktok", url = "https://example.com"},
     {name = "instagram", url = "https://instagram.com/atem_malaat"},
     {name = "email", url = "mailto:example@example.com"}
   ]
@@ -50,19 +50,19 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
+    name = "The Team"
     pre = "<span data-feather='book'></span>"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
-    name = "Projects"
+    name = "Our Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
     weight = 3
 
   [[menu.main]]
-    name = "Tags"
+    name = "Our Stars"
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
     weight = 4
