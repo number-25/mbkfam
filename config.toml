@@ -1,6 +1,6 @@
 baseURL = "https://number-25.github.io/mbkfam/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "MBK"
 theme = 'gokarna'
 enableEmoji = true
 enableRobotsTXT = true
